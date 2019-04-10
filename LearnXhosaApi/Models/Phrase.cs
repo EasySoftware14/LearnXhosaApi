@@ -6,20 +6,22 @@ using Learn = LearnXhosa.Implementation.Entities;
 
 namespace LearnXhosaApi.Models
 {
-    [DataContract]
     public class Phrase
     {
-        [DataMember]
+        public long Id { get; set; }    
         public string XhosaPhrase { get; set; }
 
-        [DataMember]
         public DateTime DateAdded { get; set; }
 
-        [DataMember]
         public IList<string> Translation { get; set; }
 
+        public Phrase()
+        {
+            
+        }
         public Phrase(Learn.Phrase phrase)
         {
+            Id = phrase.Id;
             XhosaPhrase = phrase.XhosaPhrase;
             DateAdded = phrase.CreatedAt;
             Translation = phrase.Translation.Select(x => x.EnglishTranslation).ToList();

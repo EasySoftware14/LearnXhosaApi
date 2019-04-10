@@ -14,14 +14,14 @@ namespace LearnXhosa.Implementation.Mapping
         {
             Table("XhosaPhrase");
             Id(x => x.Id).GeneratedBy.Identity().Column("id");
-            References(x => x.AddedBy).Column("added_by");
 
             Map(x => x.XhosaPhrase).Column("phrase");
             Map(x => x.PhraseLevel).Column("level").CustomType<PhraseLevel>();
             Map(x => x.CreatedAt).Column("created_at");
             Map(x => x.ModifiedAt).Column("modified_at");
-
+            //HasOne(x => x.AddedBy).LazyLoad().PropertyRef("id").Cascade.All();
             HasMany(x => x.Translation).AsBag().LazyLoad().KeyColumn("phrase_id").Cascade.AllDeleteOrphan();
+            HasMany(x => x.Phrases).AsBag().LazyLoad().KeyColumn("added_by").Cascade.AllDeleteOrphan();
         }
     }
 }

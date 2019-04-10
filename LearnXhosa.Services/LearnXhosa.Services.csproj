@@ -67,6 +67,7 @@
     <Compile Include="Contracts\IUserService.cs" />
     <Compile Include="Contracts\IXhosaPhraseService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\EnglishPhraseService.cs" />
     <Compile Include="Services\RepositoryService.cs" />
     <Compile Include="Services\UserService.cs" />
     <Compile Include="Services\XhosaPhraseService.cs" />

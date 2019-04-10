@@ -1,4 +1,6 @@
-﻿namespace LearnXhosa.Implementation.Entities
+﻿using System.Collections.Generic;
+
+namespace LearnXhosa.Implementation.Entities
 {
     public class User : Entity
     {
