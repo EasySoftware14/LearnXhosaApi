@@ -1,3 +1,5 @@
+C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.csprojAssemblyReference.cache
+C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.csproj.CoreCompileInputs.cache
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\LearnXhosa.Implementation.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\LearnXhosa.Implementation.pdb
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\Antlr3.Runtime.dll
@@ -12,8 +14,6 @@ C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\Learn
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\NHibernate.xml
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\Remotion.Linq.xml
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\bin\Debug\Remotion.Linq.EagerFetching.xml
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.csprojAssemblyReference.cache
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.csproj.CoreCompileInputs.cache
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.csproj.CopyComplete
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosa.Implementation\obj\Debug\LearnXhosa.Implementation.pdb

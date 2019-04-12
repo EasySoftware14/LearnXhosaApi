@@ -10,6 +10,7 @@ namespace LearnXhosa.Implementation.Entities
         public virtual string Password { get; set; }
         public virtual string ContactNumber { get; set; }
         public virtual UserType UserType { get; set; }
+        public virtual IList<Phrase> Phrases { get; set; }
 
     }
 }

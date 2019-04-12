@@ -22,6 +22,7 @@ namespace LearnXhosa.Implementation.Mapping
             Map(x => x.UserType).Column("user_type").CustomType<UserType>();
             Map(x => x.CreatedAt).Column("created_at");
             Map(x => x.ModifiedAt).Column("modified_at");
+            HasMany(x => x.Phrases).Cascade.AllDeleteOrphan().Fetch.Join().Inverse().KeyColumn("added_by");
         }
     }
 }

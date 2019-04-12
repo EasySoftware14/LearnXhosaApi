@@ -1,3 +1,5 @@
+C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.csprojAssemblyReference.cache
+C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.csproj.CoreCompileInputs.cache
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -27,7 +29,6 @@ C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\Learn
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Remotion.Linq.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Remotion.Linq.EagerFetching.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Antlr3.Runtime.dll
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Iesi.Collections.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\LearnXhosaApi.pdb
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\LearnXhosaApi.dll.config
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
@@ -51,9 +52,6 @@ C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\Learn
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Remotion.Linq.xml
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Remotion.Linq.EagerFetching.xml
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Antlr3.Runtime.pdb
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\bin\Debug\Iesi.Collections.xml
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.csprojAssemblyReference.cache
-C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.csproj.CoreCompileInputs.cache
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.csproj.CopyComplete
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.dll
 C:\Users\E566035\Documents\Sawulisi\Projects\Learn Xhosa App\LearnXhosaApi\LearnXhosaApi.Tests\obj\Debug\LearnXhosaApi.Tests.pdb
